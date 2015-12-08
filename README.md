@@ -1,8 +1,8 @@
 Discussions
 ===
-> General issues and discussions.
+> General issues, feature requests, and discussions.
 
-For issues and questions about particular modules, please file an issue on the relevant repository. For general issues and discussions, see [issues][issues].
+For issues and questions about particular modules, please file an issue on the relevant repository. For general issues, feature requests, and discussions, see [issues][issues].
 
 
 
